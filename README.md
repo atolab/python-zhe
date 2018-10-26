@@ -1,2 +1,4 @@
 # python-zhe
-Python API for zenoh helium.
+Python API for zenoh helium (zhe).
+
+
